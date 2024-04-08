@@ -23,8 +23,7 @@ The processor supports 13 instructions. A detailed micro instruction sequence an
 is attached in a pdf format.
 
 Check out the two PDF documentation files:
-My SAP-I PROCESSOR Control Sequence SHEET 
-MY_SAP-I_PROCESSOR_microINSTRUCTION_SEQUENCE SHEET
+
 
 Preparing HEX files for the control unit, the output driver and test programs did come really handy. I used a really great
 tool with the name of 'HxD'. I have included this program as a ZIP file in my attachement
