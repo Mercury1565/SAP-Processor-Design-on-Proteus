@@ -14,7 +14,7 @@ Email- hermongetachew10@gmail.com
 This project includes a bottom up design of the SAP_1(simple as possible) processor design. Each phases of my 
 work on this project are in separate numbered folders.
 
-Run the proteus file on the current directory. It holds the final result of my work. 
+Run the proteus file [FINAL SAP-I PROCESSOR DESIGN] on the current directory. It holds the final result of my work
 
 I have wrote some test programms for the ease of anyone trying this. It also includes the detailed instruction sequence
 of each test programms.
