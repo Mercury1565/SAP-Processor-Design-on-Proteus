@@ -1,0 +1,13 @@
+The output driver of my design required an EEPROM to enable multiplexed access of each of the 4 number in my 7SEG
+display. To enable this, preparing the appropraite hex file for the EEPROM
+
+As for the rest of hex files I've buile over the course of the project, I have used again the
+HXD windows app. I have generated the string of HEX input for this hex builder app with a python
+program which can be found in the google collab link below. The collab notebook contains detailed
+description of the 7SEG driver EEPROM addressing.
+
+```
+https://colab.research.google.com/drive/1tMQImorC6QTRp2-xzJ7Q7f28O_9IdH_U?usp=sharing
+```
+
+
