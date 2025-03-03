@@ -28,3 +28,6 @@ Check out the two PDF documentation files:
 Preparing HEX files for the control unit, the output driver and test programs did come really handy. I used a really great
 tool with the name of 'HxD'. I have included this program as a ZIP file in my attachement
 
+[Video Demo](https://github.com/Mercury1565/SAP-Processor-Design-on-Proteus/blob/main/FINAL_SAP_I_PROCESSOR_DESIGN_Proteus_8_Professional_Schematic_Capture.mp4)
+
+
